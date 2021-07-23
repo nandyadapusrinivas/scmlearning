@@ -1,4 +1,4 @@
-## Prerequisites for project...srinu is agood boy .........dfasdfsdfs.
+## Prerequisites for project...sunil is a bad boy .........dfasdfsdfs.
 - JDK 1.8 or later
 - Maven 3 or later
 - MySQL 5.6 or later
