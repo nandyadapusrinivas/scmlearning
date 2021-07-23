@@ -1,4 +1,4 @@
-## Prerequisites for project. jai janapathi boppa ki jai.........dfasdfsdfs.
+## Prerequisites for project.hello hi srinivas from rudrangi.........dfasdfsdfs.
 - JDK 1.8 or later
 - Maven 3 or later
 - MySQL 5.6 or later
